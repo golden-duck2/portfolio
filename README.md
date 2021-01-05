@@ -20,7 +20,7 @@
 
 とあるESPの異界録(ラノベ感) - golden_duck2 https://unityroom.com/games/esp-wall-shot
 
-<img src="capture01.gif">
+![picture](https://github.com/golden-duck2/portfolio/blob/main/capture01.gif?raw=true)
 
 
 ### 作成目標
