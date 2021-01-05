@@ -55,6 +55,7 @@
 一定のクオリティにはまだ達していないが、GameJamのために考えた1発ネタな為、基本的には更新はしない予定。
 <p>
 今後の展開としては、
+
 - ハイパーカジュアルに分類されるシンプルなランゲームとして修正する
 - 取って投げる仕組みはそのまま
 - ゲームオーバー判定を追加し、スコアアタック要素以外にレベル要素を持たせる
@@ -63,7 +64,15 @@
 
 ## 製作物2
 - 過去の製作物(今後整理予定)
-    - 着せ替え機能の実装　：　https://github.com/golden-duck2/ClothChange
-    - プロシージャルな雨の実装　：　https://github.com/golden-duck2/VertexRain
+    - 着せ替え機能の実装　：　https://github.com/golden-duck2/ClothChange <br>
+![picture](https://github.com/golden-duck2/ClothChange/blob/master/avater.gif?raw=true)
+    - プロシージャルな雨の実装　：　https://github.com/golden-duck2/VertexRain <br>
+![result](https://github.com/golden-duck2/VertexRain/blob/master/VertexRain.gif?raw=true)
+    - 降雪シェーダーの実装　：　https://github.com/golden-duck2/DeepSnowSample <br>
+![result](https://github.com/golden-duck2/DeepSnowSample/blob/master/DeepSnow.gif?raw=true)
+    - 草シェーダーサンプル　：　https://github.com/golden-duck2/UnityGrassGeometryShaderSample <br>
+![picture](https://github.com/golden-duck2/UnityGrassGeometryShaderSample/blob/master/grass.gif?raw=true)
+    - プロシージャル岩地形サンプル <br>
+![result](https://github.com/golden-duck2/voronoiGrand/blob/master/Voronoi.gif?raw=true)
     
 
