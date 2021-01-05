@@ -66,16 +66,17 @@
 
 <p>
 ## 製作物2
+
 - 過去の製作物(今後整理予定)
-    - 着せ替え機能の実装　：　https://github.com/golden-duck2/ClothChange <br>
-![picture](https://github.com/golden-duck2/ClothChange/blob/master/avater.gif?raw=true)
+    - 着せ替え機能の実装　： https://github.com/golden-duck2/ClothChange<br>
+![picture](https://github.com/golden-duck2/ClothChange/blob/master/avater.gif?raw=true)<br>
     - プロシージャルな雨の実装　：　https://github.com/golden-duck2/VertexRain <br>
-![result](https://github.com/golden-duck2/VertexRain/blob/master/VertexRain.gif?raw=true)
+![result](https://github.com/golden-duck2/VertexRain/blob/master/VertexRain.gif?raw=true)<br>
     - 降雪シェーダーの実装　：　https://github.com/golden-duck2/DeepSnowSample <br>
-![result](https://github.com/golden-duck2/DeepSnowSample/blob/master/DeepSnow.gif?raw=true)
+![result](https://github.com/golden-duck2/DeepSnowSample/blob/master/DeepSnow.gif?raw=true)<br>
     - 草シェーダーサンプル　：　https://github.com/golden-duck2/UnityGrassGeometryShaderSample <br>
-![picture](https://github.com/golden-duck2/UnityGrassGeometryShaderSample/blob/master/grass.gif?raw=true)
+![picture](https://github.com/golden-duck2/UnityGrassGeometryShaderSample/blob/master/grass.gif?raw=true)<br>
     - プロシージャル岩地形サンプル <br>
-![result](https://github.com/golden-duck2/voronoiGrand/blob/master/Voronoi.gif?raw=true)
+![result](https://github.com/golden-duck2/voronoiGrand/blob/master/Voronoi.gif?raw=true)<br>
     
 
