@@ -2,16 +2,17 @@
 
 ## 経験業務・スキルなど
 
+エンジニア歴：約10年
+
 使用可能言語・ツール
 - Unity
     - C#、HLSL(ShaderLab, ShaderGraph)
     - uGUI, imGUI, Editor拡張
     - Animation 等、Humanoid操作関連
-- VTuber関連開発(ハードウェア：HTC Vive Tracker, Perception Neuron, Leap Motionなど)
-- VB.net、JavaScript
+- VTuber関連開発 (ハードウェア：HTC Vive Tracker, Perception Neuron, Leap Motion、OpenCVなど)
+- VB.net、VisualBasic、JavaScript
 - DB
-    - MSSQL, MySQL
-- AWS 構築経験あり
+    - MSSQL, MySQL(AWS 構築経験あり)
 
 ## 製作物1 : UnityRoom 1week GameJam
 一週間を期限とするゲームジャム
@@ -61,7 +62,7 @@
 - ハイパーカジュアルに分類されるシンプルなランゲームとして修正する
 - 取って投げる仕組みはそのまま
 - ゲームオーバー判定を追加し、スコアアタック要素以外にレベル要素を持たせる
-- 速度が乗った場合の爽快感をより強くするため、速度によるレベルデザインをより厳密にする
+- 速度が乗った場合の爽快感をより強くするため、速度によるレベルデザインをより厳密にする<br>
 などが考えられる。
 
 <p>
