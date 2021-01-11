@@ -70,8 +70,24 @@
 
 <p>
 ## 製作物2
+    
+- ProceduralGrass
+    - プロシージャルに作られた草の実装テスト
+    - 非ジオメトリシェーダーなため、機種依存無し (C# + URP + Shader Graph)
+    
+- パラメータ
+  - 風の速さ : 0.2
+  - 風の強さ : 0.5
 
-- 過去の製作物(今後整理予定)
+![picture](https://github.com/golden-duck2/ProceduralGrass/blob/main/Force0.2Power0.5.gif)<br>
+
+- パラメータ
+  - 風の速さ : 0.8
+  - 風の強さ : 0.8
+  
+![picture](https://github.com/golden-duck2/ProceduralGrass/blob/main/Force0.8Power0.8.gif)<br>
+
+- 過去にテスト実装した物(今後整理予定)
     - 着せ替え機能の実装　： https://github.com/golden-duck2/ClothChange<br>
 ![picture](https://github.com/golden-duck2/ClothChange/blob/master/avater.gif?raw=true)<br>
     - プロシージャルな雨の実装　：　https://github.com/golden-duck2/VertexRain <br>
