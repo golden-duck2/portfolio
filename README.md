@@ -2,26 +2,46 @@
 
 ## 経験業務・スキルなど
 
-エンジニア歴：約10年
+エンジニア歴：約15年
 
 使用可能言語・ツール
 - Unity
     - C#、HLSL(ShaderLab, ShaderGraph)
     - uGUI, imGUI, Editor拡張
     - Animation 等、Humanoid操作関連
+    - 負荷軽減調整等
 - VTuber関連開発 (ハードウェア：HTC Vive Tracker, Perception Neuron, Leap Motion、OpenCVなど)
 - VB.net、VisualBasic、JavaScript
 - DB
     - MSSQL, MySQL(AWS 構築経験あり)
 
-## 製作物1 : UnityRoom 1week GameJam
+## 製作物1 : 自作インディーズゲーム開発(開発中)
+現在開発中のインディーズゲーム
+ローグライトアクションゲーム
+2023年6月あたりから着手開始。現在進行中。
+
+### 環境
+- Unity 2020.2.1f + URP
+
+#### Title
+![AbyssWalker1](https://github.com/golden-duck2/portfolio/blob/main/Picture/AbyssWalker.gif?raw=true)
+
+#### 開発中画面1
+![AbyssWalker3](https://github.com/golden-duck2/portfolio/blob/main/Picture/AbyssWalker3.gif?raw=true)
+
+#### 開発中画面2
+![AbyssWalker2](https://github.com/golden-duck2/portfolio/blob/main/Picture/AbyssWalker2.gif?raw=true)
+
+
+## 製作物2 : UnityRoom 1week GameJam
+2020年12月ごろに開発。
 一週間を期限とするゲームジャム
 
 お題：あける
 
 とあるESPの異界録(ラノベ感) - golden_duck2 https://unityroom.com/games/esp-wall-shot
 
-![picture](https://github.com/golden-duck2/portfolio/blob/main/capture01.gif?raw=true)
+![picture](https://github.com/golden-duck2/portfolio/blob/main/Picture/capture01.gif?raw=true)
 
 ### 環境
 - Unity 2020.2.1f + URP
