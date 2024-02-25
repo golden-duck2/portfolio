@@ -23,13 +23,16 @@
 ### 環境
 - Unity 2020.2.1f + URP
 
-#### Title
+#### 開発中画面1
+タイトル画面
 ![AbyssWalker1](https://github.com/golden-duck2/portfolio/blob/main/Picture/AbyssWalker.gif?raw=true)
 
-#### 開発中画面1
+#### 開発中画面2
+キャラクターコントロール
 ![AbyssWalker3](https://github.com/golden-duck2/portfolio/blob/main/Picture/AbyssWalker3.gif?raw=true)
 
-#### 開発中画面2
+#### 開発中画面3
+ボス行動ルーチン開発
 ![AbyssWalker2](https://github.com/golden-duck2/portfolio/blob/main/Picture/AbyssWalker2.gif?raw=true)
 
 
